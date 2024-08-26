@@ -1,0 +1,27 @@
+{
+    "conf0":{
+        "palm_muted":"D1",
+        "sustained":"C1",
+        "harmonic":"C#1",
+        "slide_in":"F#1",        
+        "hammer_on_pull_off":"F1",
+        "scratch":"F6",        
+        "upstroke":"A#6",
+        "downstroke":"A6",
+        "strum":"A#7"
+    },
+
+    "conf1":{
+        "palm_muted":"D0",
+        "sustained":"C0",
+        "harmonic":"C#0",
+        "slide_in":"D#0",
+        "tap":"F#0",
+        "legato_slide":"E0",
+        "hammer_on_pull_off":"F0",
+        "scratch":"F6",        
+        "upstroke":"A#6",
+        "downstroke":"A6",
+        "strum":"A#7"
+    }
+}
